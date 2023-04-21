@@ -34,11 +34,11 @@ header nav .nav-right-section{
 
 header nav .nav-right-section a{
     margin-right: 10px;
-    color: black;
+    color: rgb(255, 255, 255);
 }
 
 nav .nav-right-section .menu-icon{
-    background-image: url("https://cdn-icons-png.flaticon.com/512/95/95088.png");
+    background-image: url("https://w7.pngwing.com/pngs/419/59/png-transparent-hamburger-button-computer-icons-marmon-keystone-canada-menu-red-sea.png");
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
